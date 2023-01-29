@@ -1,7 +1,4 @@
 #include "geometricobject.h"
-#include <iostream>
-#include <string>
-#include <sstream>
 
 int main() {
   double side1, side2, side3;
